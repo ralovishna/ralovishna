@@ -48,26 +48,35 @@
 
 - 🛒 **Ralo Ecom**
   Multi-vendor e-commerce platform.
+  
   *Tech*: Spring Boot, React, Razorpay, MySQL
+  
   *Vibe*: JWT auth, real-time payments, analytics
   [GitHub](#)
 
 - 🔗 **URL Shortener**
   Secure link shortener with click tracking.
+  
   *Tech*: Spring Boot, React, Docker, NeonDB
+  
   *Vibe*: Cloud deployment, JWT security
   [GitHub](#)
 
 <details>
 <summary><p align="center"><b>More Creations 💎</b></p></summary>
+  
 - 🎓 **Student Management System**
   Role-based academic platform.
+  
   *Tech*: Spring Boot, Thymeleaf, MySQL
+  
   *Vibe*: Secure APIs, optimized DB
 
 - 📚 **Library Management API**
   REST API with Swagger docs.
+  
   *Tech*: Spring Boot, Hibernate, Swagger
+  
   *Vibe*: Automated workflows
 </details>
 
@@ -87,9 +96,11 @@
 <p align="center">
   <a href="mailto:krishnashyammalavia15030973@gmail.com"><img src="https://img.shields.io/badge/📧%20Internships-Jul–Nov%202025-4A90E2?style=for-the-badge&color=4A90E2&labelColor=0F172A"/></a>
 </p>
+
 - **Backend Magic**: Scalable Spring Boot APIs with JWT.
 - **Frontend Fire**: Slick React UIs with Redux.
 - **Code Passion**: 5★ HackerRank & top competition ranks.
+
 <p align="center">Let’s build something <b>legendary</b>! 🚀</p>
 
 ---
