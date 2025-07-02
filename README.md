@@ -42,9 +42,6 @@
 ---
 
 ## <p align="center">🚀 Top Projects</p>
-<p align="center">
-  <a href="https://ralovishna.netlify.app"><img src="https://img.shields.io/badge/🔥%20Live%20Demos-Check%20Now-FF3E7D?style=for-the-badge&color=FF3E7D&labelColor=0F172A"/></a>
-</p>
 
 - 🛒 **Ralo Ecom**
   Multi-vendor e-commerce platform.
@@ -94,7 +91,7 @@
 
 ## <p align="center">💼 Hire Me!</p>
 <p align="center">
-  <a href="mailto:krishnashyammalavia15030973@gmail.com"><img src="https://img.shields.io/badge/📧%20Internships-Jul–Nov%202025-4A90E2?style=for-the-badge&color=4A90E2&labelColor=0F172A"/></a>
+  <a href="mailto:krishnashyammalavia15030973@gmail.com"><img src="https://img.shields.io/badge/📧%20Internships-Dec–May%202025-4A90E2?style=for-the-badge&color=4A90E2&labelColor=0F172A"/></a>
 </p>
 
 - **Backend Magic**: Scalable Spring Boot APIs with JWT.
