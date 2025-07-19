@@ -57,7 +57,7 @@
 Built for sellers + customers with secure checkout, dashboards, and real-time payments.
 
 > 🛠 Spring Boot, React, JWT, Razorpay, MySQL  
-> 🔗 [GitHub](https://github.com/ralovishna/Ralo-ecom) • 🌐 *Coming Soon*
+> 🔗 [GitHub](https://github.com/ralovishna/Ralo-ecom) • 🌐 *Go to Repo*
 
 ---
 
@@ -66,7 +66,7 @@ Built for sellers + customers with secure checkout, dashboards, and real-time pa
 Track clicks & secure URLs with JWT-auth endpoints.
 
 > 🛠 Spring Boot, Docker, React, NeonDB  
-> 🔗 [GitHub](https://github.com/ralovishna/Ralo-tracker-url)
+> 🔗 [GitHub](https://github.com/ralovishna/Ralo-tracker-url) • 🌐 *Go to Repo*
 
 ---
 
@@ -75,7 +75,7 @@ Track clicks & secure URLs with JWT-auth endpoints.
 Admin & student logins, secured APIs, Thymeleaf UI.
 
 > 🛠 Spring Boot, Thymeleaf, MySQL  
-> 🔗 [GitHub](https://github.com/ralovishna/Krishnas_SMS)
+> 🔗 [GitHub](https://github.com/ralovishna/Krishnas_SMS) • 🌐 *Go to Repo*
 
 
 ---
@@ -85,7 +85,7 @@ Admin & student logins, secured APIs, Thymeleaf UI.
 See my live projects, certifications, and tech stack.
 
 > 🛠 React.js, Tailwind CSS, Netlify  
-> 🔗 [Live Portfolio](https://raloportfolio.netlify.app)
+> 🔗 [Live Portfolio](https://raloportfolio.netlify.app) • 🌐 *Go to Site*
 
 ---
 
