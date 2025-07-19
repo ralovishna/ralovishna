@@ -84,14 +84,14 @@
   <a href="https://www.hackerrank.com/profile/Ralovishna"><img src="https://img.shields.io/badge/🏆%20HackerRank-5★%20Gold-2EC866?style=for-the-badge&color=2EC866&labelColor=0F172A"/></a>
   <img src="https://img.shields.io/badge/🥇%20Code%20Marathon-1st%202023-FFD700?style=for-the-badge&color=FFD700&labelColor=0F172A"/>
   <img src="https://img.shields.io/badge/🥈%20Code%20Clash-2nd%202025-FFD700?style=for-the-badge&color=FFD700&labelColor=0F172A"/>
-  <img src="https://img.shields.io/badge/📜%20Certified-Software%20Engineer-4A90E2?style=for-the-badge&color=4A90E2&labelColor=0F172A"/>
+  <img src="https://www.hackerrank.com/certificates/0ecb2d52f5fe?style=for-the-badge&color=4A90E2&labelColor=0F172A"/>
 </p>
 
 ---
 
 ## <p align="center">💼 Hire Me!</p>
 <p align="center">
-  <a href="mailto:krishnashyammalavia15030973@gmail.com"><img src="https://img.shields.io/badge/📧%20Internships-Dec–May%202025-4A90E2?style=for-the-badge&color=4A90E2&labelColor=0F172A"/></a>
+  <a href="mailto:krishnamalavia.dev@gmail.com"><img src="https://img.shields.io/badge/📧%20Internships-Dec–May%202025-4A90E2?style=for-the-badge&color=4A90E2&labelColor=0F172A"/></a>
 </p>
 
 - **Backend Magic**: Scalable Spring Boot APIs with JWT.
@@ -104,7 +104,7 @@
 
 ## <p align="center">🌐 Connect</p>
 <p align="center">
-  <a href="mailto:krishnashyammalavia15030973@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-D14836?style=for-the-badge&color=D14836&labelColor=0F172A"/></a>
+  <a href="mailto:krishnamalavia.dev@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-D14836?style=for-the-badge&color=D14836&labelColor=0F172A"/></a>
   <a href="https://linkedin.com/in/krishna-malavia-1b744024a"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=for-the-badge&color=0A66C2&labelColor=0F172A"/></a>
   <a href="https://github.com/ralovishna"><img src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge&color=181717&labelColor=0F172A"/></a>
 </p>
